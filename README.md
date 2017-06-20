@@ -1,4 +1,4 @@
-# Widget Example
+# ![alt-text][logo]Widget Example
 
 Android App
 
